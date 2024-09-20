@@ -1,1 +1,1 @@
-export const materials = ["Topas", "Dark Nebula", "Rosa Träume", "dekonstruiertes Schach", "Himmel am Strand"];
+export const materials = ["Topas", "Dark Nebula", "Rosa Träume", "Dekonstruiertes Schach", "Himmel am Strand"];
