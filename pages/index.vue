@@ -1,7 +1,7 @@
 <template>
   <main class="h-full w-full pt-20">
-    <p class="pl-24 text-2xl font-[500] mb-10">Dein Rückwand Auswählen</p>
-    <div class="w-full h-full flex flex-col md:flex-row gap-10 px-24">
+    <p class="pl-5 md:pl-24 text-2xl font-[500] mb-10">Dein Rückwand Auswählen</p>
+    <div class="w-full h-full flex flex-col md:flex-row gap-10 px-5 md:px-24">
       <div class="w-full">
         <div class="bg-slate-50 rounded-xl w-full h-96 relative overflow-hidden" ref="canvas">
           <div
